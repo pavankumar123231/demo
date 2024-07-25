@@ -1,1 +1,2 @@
 welcome to ansible
+ansible is used to installing the packages onserver
